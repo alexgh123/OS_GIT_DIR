@@ -5,5 +5,3 @@ next steps:
 	2. test ^ with test.py
 
 
-
-new stuff I'm adding to file
